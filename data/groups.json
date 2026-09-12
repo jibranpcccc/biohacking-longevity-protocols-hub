@@ -1,0 +1,509 @@
+[
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-1",
+    "title": "r/Biohackers Human Optimization",
+    "platform": "Reddit",
+    "category": "Biohacking",
+    "memberCount": "290,000+ members",
+    "description": "Evidence-based protocols for biological optimization, circadian alignment, sleep tracking, and telemetry.",
+    "joinUrl": "https://www.reddit.com/r/Biohackers/",
+    "tags": [
+      "biohacking",
+      "optimization",
+      "health",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-2",
+    "title": "r/longevity Life Extension Science",
+    "platform": "Reddit",
+    "category": "Longevity",
+    "memberCount": "160,000+ members",
+    "description": "Peer-reviewed longevity research, cellular senescence, telomere biology, and caloric restriction studies.",
+    "joinUrl": "https://www.reddit.com/r/longevity/",
+    "tags": [
+      "longevity",
+      "anti-aging",
+      "science",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-3",
+    "title": "r/Supplements Evidence-Based Nutrition",
+    "platform": "Reddit",
+    "category": "Supplements",
+    "memberCount": "420,000+ members",
+    "description": "Community evaluations of vitamins, minerals, adaptogens, micronutrient dosing, and clinical trials.",
+    "joinUrl": "https://www.reddit.com/r/Supplements/",
+    "tags": [
+      "supplements",
+      "nutrition",
+      "vitamins",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-4",
+    "title": "r/Nootropics Cognitive Enhancement",
+    "platform": "Reddit",
+    "category": "Nootropics",
+    "memberCount": "340,000+ members",
+    "description": "Systematic discussion of neuroenhancers, racetams, choline sources, focus stacks, and cognitive testing.",
+    "joinUrl": "https://www.reddit.com/r/Nootropics/",
+    "tags": [
+      "nootropics",
+      "cognitive",
+      "focus",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-5",
+    "title": "r/intermittentfasting Metabolic Health",
+    "platform": "Reddit",
+    "category": "Fasting",
+    "memberCount": "980,000+ members",
+    "description": "Time-restricted eating schedules, autophagy benefits, insulin sensitivity tracking, and lifestyle transformations.",
+    "joinUrl": "https://www.reddit.com/r/intermittentfasting/",
+    "tags": [
+      "fasting",
+      "metabolism",
+      "health",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-6",
+    "title": "r/HubermanLab Neuroscience & Protocols",
+    "platform": "Reddit",
+    "category": "Protocols",
+    "memberCount": "210,000+ members",
+    "description": "Discussions of Dr. Andrew Huberman's podcast protocols: morning sunlight exposure, cold therapy, and dopamine management.",
+    "joinUrl": "https://www.reddit.com/r/HubermanLab/",
+    "tags": [
+      "huberman",
+      "neuroscience",
+      "protocols",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-7",
+    "title": "r/PeterAttia Longevity & Medicine 3.0",
+    "platform": "Reddit",
+    "category": "Medicine 3.0",
+    "memberCount": "95,000+ members",
+    "description": "Clinical longevity protocols from Dr. Peter Attia: ApoB monitoring, VO2 max benchmarks, and metabolic stability.",
+    "joinUrl": "https://www.reddit.com/r/PeterAttia/",
+    "tags": [
+      "peter-attia",
+      "medicine3",
+      "vo2max",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-8",
+    "title": "r/fasting Autophagy & Cellular Renewal",
+    "platform": "Reddit",
+    "category": "Autophagy",
+    "memberCount": "560,000+ members",
+    "description": "Extended water-only fasting science, electrolyte replenishment regimens, refeeding safety, and autophagy.",
+    "joinUrl": "https://www.reddit.com/r/fasting/",
+    "tags": [
+      "fasting",
+      "autophagy",
+      "wellness",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-9",
+    "title": "r/QuantifiedSelf Biometrics Tracking",
+    "platform": "Reddit",
+    "category": "Telemetry",
+    "memberCount": "65,000+ members",
+    "description": "Wearable sensor telemetry, continuous glucose monitor data, heart rate variability (HRV), and personal experiments.",
+    "joinUrl": "https://www.reddit.com/r/QuantifiedSelf/",
+    "tags": [
+      "quantified-self",
+      "cgm",
+      "hrv",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-10",
+    "title": "r/science Peer-Reviewed Biomedical Studies",
+    "platform": "Reddit",
+    "category": "Science",
+    "memberCount": "32,000,000+ members",
+    "description": "Peer-reviewed scientific journal publications, clinical research papers, and biomedical breakthroughs.",
+    "joinUrl": "https://www.reddit.com/r/science/",
+    "tags": [
+      "science",
+      "biomedical",
+      "research",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-11",
+    "title": "r/Fitness Zone 2 & Hypertrophy Protocols",
+    "platform": "Reddit",
+    "category": "Fitness",
+    "memberCount": "11,500,000+ members",
+    "description": "Cardiovascular endurance training, resistance mechanics, progressive overload, and longevity conditioning.",
+    "joinUrl": "https://www.reddit.com/r/Fitness/",
+    "tags": [
+      "fitness",
+      "cardio",
+      "conditioning",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-12",
+    "title": "r/nutrition Nutritional Biochemistry",
+    "platform": "Reddit",
+    "category": "Nutrition",
+    "memberCount": "3,400,000+ members",
+    "description": "Scientific analysis of human nutrition, macronutrient partitioning, micronutrients, and dietary interventions.",
+    "joinUrl": "https://www.reddit.com/r/nutrition/",
+    "tags": [
+      "nutrition",
+      "diet",
+      "biochemistry",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-13",
+    "title": "r/sleep Circadian Rhythm & Sleep Optimization",
+    "platform": "Reddit",
+    "category": "Sleep",
+    "memberCount": "220,000+ members",
+    "description": "Sleep architecture, deep/REM stage optimization, melatonin rhythms, and sleep tracking technologies.",
+    "joinUrl": "https://www.reddit.com/r/sleep/",
+    "tags": [
+      "sleep",
+      "circadian",
+      "recovery",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-14",
+    "title": "r/personalfinance Healthcare & Longevity Allocations",
+    "platform": "Reddit",
+    "category": "Planning",
+    "memberCount": "19,000,000+ members",
+    "description": "HSA strategies, long-term care insurance, executive physical allocations, and longevity budgeting.",
+    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "tags": [
+      "planning",
+      "hsa",
+      "longevity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-15",
+    "title": "r/financialindependence FIRE & Vitality Guild",
+    "platform": "Reddit",
+    "category": "Independence",
+    "memberCount": "2,200,000+ members",
+    "description": "Financial independence paired with active health preservation for multi-decade retirement vitality.",
+    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "tags": [
+      "fire",
+      "vitality",
+      "wealth",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-telegram-16",
+    "title": "Bloomberg Health Tech & Biotech Feed",
+    "platform": "Telegram",
+    "category": "Biotech",
+    "memberCount": "120,000+ members",
+    "description": "Global reporting on clinical trials, pharmaceutical FDA clearances, and biomedical hardware innovations.",
+    "joinUrl": "https://t.me/bloomberg",
+    "tags": [
+      "telegram",
+      "biotech",
+      "fda",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-telegram-17",
+    "title": "TechCrunch Biotech & Health Devices",
+    "platform": "Telegram",
+    "category": "Wearables",
+    "memberCount": "65,000+ members",
+    "description": "Coverage of innovative health startups, CGM sensors, smart rings, and preventative medical hardware.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "wearables",
+      "healthtech",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-forum-18",
+    "title": "Bogleheads Health Savings & Planning Forum",
+    "platform": "Forum",
+    "category": "Forum",
+    "memberCount": "110,000+ members",
+    "description": "Evidence-based financial and health savings account management for lifelong stability.",
+    "joinUrl": "https://bogleheads.org/forum/",
+    "tags": [
+      "bogleheads",
+      "hsa",
+      "planning",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-discord-19",
+    "title": "OpenAI Research & Longevity AI Discord",
+    "platform": "Discord",
+    "category": "AI Health",
+    "memberCount": "200,000+ members",
+    "description": "AI researchers exploring biological modeling, protein structures, and medical data analysis.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "ai",
+      "biology",
+      "research",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-discord-20",
+    "title": "Claude AI Health & Biomarker Analysis Discord",
+    "platform": "Discord",
+    "category": "AI Health",
+    "memberCount": "85,000+ members",
+    "description": "Community discussing Claude prompts for parsing blood panels, DEXA scans, and medical studies.",
+    "joinUrl": "https://discord.gg/anthropic",
+    "tags": [
+      "claude",
+      "biomarkers",
+      "health",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-forum-21",
+    "title": "Kaggle Healthcare & Genomic Datasets Forum",
+    "platform": "Forum",
+    "category": "Data",
+    "memberCount": "1,500,000+ members",
+    "description": "Data scientists competing and collaborating on public health benchmarks, genomics, and disease prediction.",
+    "joinUrl": "https://www.kaggle.com/discussion",
+    "tags": [
+      "kaggle",
+      "genomics",
+      "data",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-forum-22",
+    "title": "Hugging Face Biomedical Models Forum",
+    "platform": "Forum",
+    "category": "Open Models",
+    "memberCount": "80,000+ members",
+    "description": "Open-source bioinformatics models, ClinicalBERT, biomedical NLP, and molecular property prediction.",
+    "joinUrl": "https://discuss.huggingface.co",
+    "tags": [
+      "bioinformatics",
+      "models",
+      "huggingface",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-23",
+    "title": "r/MachineLearning Healthcare Deep Learning",
+    "platform": "Reddit",
+    "category": "Machine Learning",
+    "memberCount": "2,900,000+ members",
+    "description": "Frontier research papers in computational biology, computer vision for medical imaging, and drug discovery.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "tags": [
+      "machine-learning",
+      "computational-biology",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-24",
+    "title": "r/LocalLLaMA Medical LLMs Research",
+    "platform": "Reddit",
+    "category": "Open Source",
+    "memberCount": "260,000+ members",
+    "description": "Running open medical LLMs locally for clinical reasoning, document extraction, and health logs.",
+    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "tags": [
+      "localllama",
+      "health-llms",
+      "open-source",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-reddit-25",
+    "title": "r/ChatGPT Longevity Journaling & Prompting",
+    "platform": "Reddit",
+    "category": "Prompting",
+    "memberCount": "6,500,000+ members",
+    "description": "Prompting strategies for automated health journaling, meal macro calculations, and habit adherence.",
+    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "tags": [
+      "chatgpt",
+      "journaling",
+      "habits",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-telegram-26",
+    "title": "AI Insights & Biotech Papers Channel",
+    "platform": "Telegram",
+    "category": "Biotech AI",
+    "memberCount": "55,000+ members",
+    "description": "Fast-paced daily summaries of longevity science preprints, AI in healthcare, and clinical trials.",
+    "joinUrl": "https://t.me/ai_insights",
+    "tags": [
+      "telegram",
+      "biotech-ai",
+      "preprints",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-telegram-27",
+    "title": "Machine Learning Health Digest Channel",
+    "platform": "Telegram",
+    "category": "ML Digest",
+    "memberCount": "40,000+ members",
+    "description": "Curated machine learning applications in medicine, wearable sensor analytics, and genomics.",
+    "joinUrl": "https://t.me/machinelearning_digest",
+    "tags": [
+      "telegram",
+      "ml-health",
+      "digest",
+      "sensors"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-discord-28",
+    "title": "Capital Finance & Longevity Investment Discord",
+    "platform": "Discord",
+    "category": "Finance",
+    "memberCount": "40,000+ members",
+    "description": "Investing in biotech equities, longevity therapeutic developers, and health diagnostics.",
+    "joinUrl": "https://discord.gg/finance",
+    "tags": [
+      "finance",
+      "biotech-investing",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-discord-29",
+    "title": "QuantMap Biohacking Portfolio Discord",
+    "platform": "Discord",
+    "category": "Markets",
+    "memberCount": "150,000+ members",
+    "description": "Market intelligence covering preventative medicine companies, healthcare ETFs, and medical devices.",
+    "joinUrl": "https://discord.gg/investing",
+    "tags": [
+      "investing",
+      "healthcare-etf",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "biohacking-longevity-protocols-hub-discord-30",
+    "title": "Pegasus Founders Health & Energy Discord",
+    "platform": "Discord",
+    "category": "Executive Health",
+    "memberCount": "45,000+ members",
+    "description": "High-performing founders sharing peak performance habits, fasting schedules, and biohacking stacks.",
+    "joinUrl": "https://discord.gg/entrepreneur",
+    "tags": [
+      "founders",
+      "energy",
+      "performance",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
