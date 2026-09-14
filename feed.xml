@@ -4,10 +4,17 @@
     <title>Biohacking &amp; Longevity Protocols Hub</title>
     <link>https://biohacking-longevity-protocols-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:48:25 GMT</lastBuildDate>
     <atom:link href="https://biohacking-longevity-protocols-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://biohacking-longevity-protocols-hub.netlify.app/#biohacking-longevity-protocols-hub-forum-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 10:48:25 GMT</pubDate>
+      <description>Newly verified community added to Biohacking &amp; Longevity Protocols Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
       <link>https://discord.gg/tech</link>
       <guid isPermaLink="false">https://biohacking-longevity-protocols-hub.netlify.app/#biohacking-longevity-protocols-hub-discord-20260914-1-2026-09-14</guid>
