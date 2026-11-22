@@ -1,5 +1,24 @@
 [
   {
+    "id": "biohacking-longevity-protocols-hub-reddit-5",
+    "title": "r/intermittentfasting Metabolic Health",
+    "platform": "Reddit",
+    "category": "Fasting",
+    "memberCount": "980,000+ members",
+    "description": "Time-restricted eating schedules, autophagy benefits, insulin sensitivity tracking, and lifestyle transformations.",
+    "joinUrl": "https://www.reddit.com/r/intermittentfasting/",
+    "tags": [
+      "fasting",
+      "metabolism",
+      "health",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "biohacking-longevity-protocols-hub-reddit-4",
     "title": "r/Nootropics Cognitive Enhancement",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -245,24 +264,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "biohacking-longevity-protocols-hub-reddit-5",
-    "title": "r/intermittentfasting Metabolic Health",
-    "platform": "Reddit",
-    "category": "Fasting",
-    "memberCount": "980,000+ members",
-    "description": "Time-restricted eating schedules, autophagy benefits, insulin sensitivity tracking, and lifestyle transformations.",
-    "joinUrl": "https://www.reddit.com/r/intermittentfasting/",
-    "tags": [
-      "fasting",
-      "metabolism",
-      "health",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "biohacking-longevity-protocols-hub-reddit-6",
